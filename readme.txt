@@ -1,6 +1,6 @@
 git is 
 the first time
 
-the second time
+the time
 
 merge 
